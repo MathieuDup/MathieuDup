@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- :game_die: I’m currently working on creating a board game company
+- I’m actively working on creating a board game company :game_die: 
 
-- :computer: I’m currently learning React
+- I’m currently learning React :computer: 
 
-- :briefcase: I'm currently looking for a job as a junior fullstack web developper 
+-  I'm currently looking for a job as a junior fullstack web developper :briefcase:
 
-- 📫 How to reach me: https://linktr.ee/mathieudupin
+-  How to reach me: https://linktr.ee/mathieudupin 📫
 
-- 😄 Pronouns: He / Him
+-  Pronouns: He / Him 😄
 
-- :star2: Fun fact: I've completed Hollow Knight, twice
+- Fun fact: I've completed Hollow Knight, twice ! :star2: 
