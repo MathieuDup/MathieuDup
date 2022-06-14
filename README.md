@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m actively working on creating a board game company :game_die: learning React :computer: and looking for a job as a junior fullstack web developper :briefcase:
+- I’m actively working on creating a board game company :game_die: learning React :computer: and looking for a job as fullstack web developper :briefcase:
 -  How to reach me: https://linktr.ee/mathieudupin 📫
 -  Pronouns: He / Him 😄
 - Fun fact: I've completed Hollow Knight, twice ! :star2: 
