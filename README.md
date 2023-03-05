@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathieu</h1>
 <h3 align="center">A passionate fullstack developer from Bordeaux</h3>
 
-- I’m actively working on creating a board game company :game_die: learning React :computer: and looking for a job as fullstack web developper :briefcase:
+- I’m actively working on creating a board game company :game_die: learning new languages :computer: and looking for a job in project management :briefcase:
 -  How to reach me: https://linktr.ee/mathieudupin 📫
 -  Pronouns: He / Him 😄
 - Fun fact: I've completed Hollow Knight, twice ! :star2: 
